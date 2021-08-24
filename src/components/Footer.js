@@ -4,8 +4,6 @@ import { Link } from 'react-router-dom';
 
 function Footer() {
 
-  const MAILCHIMP_URL = process.env.MAILCHIMP_URL;
-
   return (
     <div className='footer-container'>
 
