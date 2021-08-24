@@ -18,7 +18,7 @@ const Cards = () => {
 
 
     //using news api
-    axios.get(process.env.MAILCHIMP_URL)
+    axios.get("https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=f26ec526aecc43b2a16092e0b94bd610")
       .then(res => {
         console.log(res.data);
         const item = [

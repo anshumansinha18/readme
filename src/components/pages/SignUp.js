@@ -1,8 +1,6 @@
-
 import '../../App.css';
 import React from 'react';
 import Mailchimp from 'react-mailchimp-form'
-
 
 export const SignUp = () => {
 
