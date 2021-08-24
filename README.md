@@ -36,7 +36,7 @@ npm install
 
 Run the application on the development server(http://localhost:3000/)
 ```python
-npm install
+npm start
 ```
 ## Using API
 
