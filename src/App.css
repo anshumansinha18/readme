@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.services {
+  background-image: url('/images/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.products {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: linear-gradient(180deg, rgba(0,14,61,0.8914916308320203) 0%, rgba(18,0,219,0) 0%, rgba(0,20,23,0.9755252442773985) 81%, rgba(7,7,8,1) 100%), url('http://c.files.bbci.co.uk/C870/production/_112921315_gettyimages-876284806.jpg');
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+input[type]{
+  padding: 12px 68px;
+  margin-bottom: 9px;
+  border-radius: 5px;
+  border: none;
+  justify-content: center;
+}
+
+button{
+  padding: 8px 50px;
+  background-color: white;
+}
+
+.msg-alert{
+  color: rgb(137 19 19 / 86%);
+}
+
+
