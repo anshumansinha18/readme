@@ -1,3 +1,4 @@
+
 # readme
 
 No it's not github readme.md
@@ -5,6 +6,11 @@ No it's not github readme.md
 It's a beautifully designed React based web application for you to read your favourite news articles from standard news journal with a feature to subscribe to the newsletter as well.
 
 ## Screenshots
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/39727166/130657532-b8253982-f7b4-4018-8bc7-b7e1a019043c.gif)
+![screencapture-localhost-3000-2021-08-24-22_21_59](https://user-images.githubusercontent.com/39727166/130657809-2b980cf2-9335-4854-8c43-4d6fed602690.png)
+![screencapture-localhost-3000-Articles-2021-08-24-22_22_56](https://user-images.githubusercontent.com/39727166/130657828-346bd355-4c5f-4cf4-8ea4-05d51b2d2073.png)
+![screencapture-localhost-3000-sign-up-2021-08-24-22_22_26](https://user-images.githubusercontent.com/39727166/130657848-d75a4c9a-46ee-44db-a9dd-6cc6c596f964.png)
+![screencapture-localhost-3000-Wotd-2021-08-24-22_22_43](https://user-images.githubusercontent.com/39727166/130657861-5903c3fe-9ac9-45bd-87d7-86865f5f13f8.png)
 
 
 ## Technical Description
